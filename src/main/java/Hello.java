@@ -7,6 +7,7 @@ public class Hello {
         System.out.println("B21 is learing GitHub");
         //mmmjj
         //movie on the phone 10 min
+        //movie on the phone 20 min
     }
 
 }
